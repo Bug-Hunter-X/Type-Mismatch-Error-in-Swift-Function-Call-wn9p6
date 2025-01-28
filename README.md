@@ -1,0 +1,1 @@
+This example demonstrates a common error in Swift: a type mismatch when calling a function. The `calculateArea` function expects two `Double` arguments, but the call passes a `String` as the second argument, leading to a compile-time error.  The solution shows how to properly convert the string to a double before passing it to the function.
